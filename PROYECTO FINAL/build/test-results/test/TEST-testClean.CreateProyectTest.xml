@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testClean.CreateProyectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-23T01:04:45" hostname="PC-JOE" time="28.582">
+  <properties/>
+  <testcase name="Titulo: VERIFICAR LA CREACION DE PROYECTO" classname="testClean.CreateProyectTest" time="28.582"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 58098
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct 22, 2022 8:04:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected upstream dialect: W3C
+oct 22, 2022 8:04:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFORMACIÓN: Found exact CDP implementation for version 106
+]]></system-err>
+</testsuite>

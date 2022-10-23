@@ -1,0 +1,4123 @@
+<head>
+</head>
+<body>
+<h2>scanProgress</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+https://todoist.com</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>HostProcess</h2>
+<table border="1">
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Path Traversal</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+6</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Complete</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+21120</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+115</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Inclusi&oacute;n Remota de Archivos</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+7</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Divulgaci&oacute;n del c&oacute;digo fuente - / carpeta WEB-INF</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10045</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+External Redirect</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+20019</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Server Side Include</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40009</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Cross Site Scripting (Reflected)</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40012</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Cross Site Scripting (Persistent) - Prime</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40016</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Cross Site Scripting (Persistent) - Spider</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40017</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Cross Site Scripting (Persistent)</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40014</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Falla por Inyecci&oacute;n SQL</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40018</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Server Side Code Injection</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90019</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Remote OS Command Injection</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90020</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Exploraci&oacute;n de directorios</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Buffer Overflow</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+30001</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Error de formato de cadena</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+30002</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+CRLF Injection</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40003</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Parameter Tampering</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40008</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Fuga de informaci&oacute;n ELMAH</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40028</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+.htaccess Information Leak</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40032</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Reglas de b&uacute;squeda activadas para el Script</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+50000</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+release</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Source Code Disclosure - Git </td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+41</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Source Code Disclosure - File Inclusion</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+43</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Ejecuci&oacute;n remota de c&oacute;digo - Shell Shock</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10048</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Httpoxy - Proxy Header Misuse</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10107</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Vulnerabilidades de OpenSLL HeartBleed</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+20015</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Desconfiguraci&oacute;n de Dominio cruzado</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+20016</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Divulgaci&oacute;n del c&oacute;digo fuente - CVE-2012-1823</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+20017</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Ejecuci&oacute;n remota de c&oacute;digo - CVE-2012-1823</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+20018</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Fijaci&oacute;n de Sesi&oacute;n</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40013</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Inyecci&oacute;n SQL - MySQL</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40019</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Inyecci&oacute;n SQL - SQL hipers&oacute;nico</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40020</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Inyecci&oacute;n SQL - Or&aacute;culo</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40021</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Inyecci&oacute;n SQL - PostgreSQL</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40022</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+SQL Injection - SQLite</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40024</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Sitio cruzado de Scripting (Basado en DOM)</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40026</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+SQL Injection - MsSQL</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40027</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+XPath Injection</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90021</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+XML External Entity Attack</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90023</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Relleno gen&eacute;rico del Or&aacute;culo</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90024</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Inyecci&oacute;n Expresi&oacute;n de Lenguaje</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90025</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+SOAP Action Spoofing</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90026</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+SOAP XML Injection</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90029</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Cloud Metadata Potentially Exposed</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90034</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Divulgaci&oacute;n del c&oacute;digo fuente - SVN</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+42</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Relative Path Confusion</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10051</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Divulgaci&oacute;n del archivo de respaldo</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10095</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+HTTP Only Site</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10106</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Anti-CSRF Tokens Check</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+20012</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Falla de desbordamiento de enteros</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+30003</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Proxy Disclosure</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40025</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Trace.axd Information Leak</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40029</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+.env Information Leak</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40034</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Hidden File Finder</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40035</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+XSLT Injection</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90017</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+M&eacute;todo HTTP inseguro</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90028</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+HTTPS Content Available via HTTP</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10047</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+GET for POST</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10058</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+User Agent Fuzzer</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+10104</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Infecci&oacute;n de los par&aacute;metros HTTP</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+20014</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Posible enumeraci&oacute;n de nombre de usuario</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40023</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Cookie Slack Detector</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90027</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+beta</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Inyecci&oacute;n LDAP</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40015</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Out of Band XSS</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40031</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+NoSQL Injection - MongoDB</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40033</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Log4Shell</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40043</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Spring4Shell</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40045</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Text4shell (CVE-2022-42889)</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40047</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Example Active Scan Rule: Denegaci&oacute;n de Servicio</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+60100</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Un ejemplo regla de lectura activa que carga datos desde un archivo</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+60101</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Server Side Template Injection</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90035</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Server Side Template Injection (Blind)</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+90036</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Bypassing 403</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40038</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Web Cache Deception</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40039</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+CORS Header</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40040</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Spring Actuator Information Leak</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40042</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<h2>Plugin</h2>
+<table border="1">
+<tr><td>
+<table border="1">
+<tr><td>
+name</td><td>
+Exponential Entity Expansion (Billion Laughs Attack)</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+id</td><td>
+40044</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+quality</td><td>
+alpha</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+status</td><td>
+Pending</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+timeInMs</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+reqCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<table border="1">
+<tr><td>
+alertCount</td><td>
+0</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table>
+</body>
